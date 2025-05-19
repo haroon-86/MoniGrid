@@ -1,5 +1,7 @@
 # MoniGrid
 
+![AltText](power_dist)
+
 MoniGrid is a SCADA RTU simulation tool designed for educational, professional training, and demonstration purposes. It emulates core components of SCADA environments such as RTU access control, ladder logic execution, patch monitoring, and basic protocol simulations. MoniGrid helps developers and aspiring ICS professionals understand the interaction between control centers and field devices, with an emphasis on **NERC CIP**-like cybersecurity best practices.
 
 
