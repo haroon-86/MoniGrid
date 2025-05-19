@@ -1,0 +1,3 @@
+RTU_ID,Location,Voltage,Status
+101,Substation-A,230,ON
+102,Substation-B,115,OFF
